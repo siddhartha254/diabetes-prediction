@@ -1,2 +1,2 @@
 # diabetes-prediction
-Predicts if a person is diabetic based on several parameters.
+Predicts if a person is diabetic based on several parameters using SVM algorithm.
